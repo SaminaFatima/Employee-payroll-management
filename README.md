@@ -5,4 +5,4 @@
 - <a href="https://github.com/SaminaFatima/Employee-payroll-management/blob/main/employee%20management%20%20payroll.xlsx">Dataset View</a>
 
 Let's take a glimpse of this project!
-<img width="1435" height="667" alt="Project" src="https://github.com/user-attachments/assets/d4339013-7436-4a82-8c6e-8ba8e91759dc" />
+<img width="1435" height="667" alt="Project" src="https://github.com/SaminaFatima/Employee-payroll-management/blob/main/emp.png" />
