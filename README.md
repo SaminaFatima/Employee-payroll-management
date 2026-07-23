@@ -1,5 +1,9 @@
 # Employee-payroll-management
-"I learned that credit risk management is a dynamic balance between asset depreciation and capital protection. By automating a model that factors in straight-line depreciation against outstanding loan values, I learned how to track real-time changes in Loan-to-Value ratios. This project taught me how institutional lenders systematically protect their margins from expected losses."
+"## 📌 Overview
+
+The **Employee Payroll Management System** is a structured, data-driven framework designed to automate and streamline organizational payroll operations. Built using advanced spreadsheet modeling, this system simplifies the end-to-end salary processing cycle—from attendance tracking and basic pay calculations to statutory tax deductions and net salary disbursements.
+
+By integrating automated formulas for allowances, tax withholdings, and loan recoveries, this project eliminates manual calculation errors, ensures statutory compliance, and provides real-time visibility into an organization's overall compensation expenses."
 
 ## Dataset Used
 - <a href="https://github.com/SaminaFatima/Employee-payroll-management/blob/main/employee%20management%20%20payroll.xlsx">Dataset View</a>
